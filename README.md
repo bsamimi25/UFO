@@ -1,5 +1,8 @@
 # UFO
 
+<img width="1400" alt="Screen Shot 2020-09-26 at 1 49 49 PM" src="https://user-images.githubusercontent.com/67808057/94350057-5372d780-ffff-11ea-89bb-4ab23fd6cc78.png">
+
+
 ## Overview 
 The purpose of this project was to take an insight on UFO Sightings using Java, HTML,and CSS. I created multiple filters for users to input and gather their own insight on UFO Sightings.
 
